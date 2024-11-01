@@ -162,10 +162,16 @@ h2 {
     top: 0;
     left:0;
     width: 30%;
-    height: 30%;
+    height: 30%; 
 }
 .shorts{
     position:relative;
     width: 30%;
     height:30%;
 }
+.video-container video {
+    width: 100%; /* Full width */
+    max-width: 600px; /* Adjust max width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
