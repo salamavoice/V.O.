@@ -7,13 +7,13 @@ const trackTitle = document.getElementById('track-title');
 
 // List of audio tracks
 const tracks = [
-  { title:'بودكاست تخليد لذكري جدي' ,src: 'audio/track1.mp3' },
-  { title: ' السيدة خديجة رضي الله عنها',src: 'audio/track2.mp3' },
-  { title: 'اعلان غير رسمي بالفصحي',src: 'audio/track3.mp3' },
-  {title: 'اعلان غير رسمي بالعامية',src:'audio/track4.mp3' },
-  {title: 'ملخص رواية',src: 'audio/track5.mp3' },
-  {title: 'وثائقي (عز الدين القسام)',src: 'audio/track6.mp3'},
-  {title: 'رد آلي',src: 'audio/track7.mp3' }
+  { title:'بودكاست تخليد لذكري جدي' ,src: 'track1.mp3' },
+  { title: ' السيدة خديجة رضي الله عنها',src: 'track2.mp3' },
+  { title: 'اعلان غير رسمي بالفصحي',src: 'track3.mp3' },
+  {title: 'اعلان غير رسمي بالعامية',src:'track4.mp3' },
+  {title: 'ملخص رواية',src: 'track5.mp3' },
+  {title: 'وثائقي (عز الدين القسام)',src: 'track6.mp3'},
+  {title: 'رد آلي',src: 'track7.mp3' }
 
 ];
 
