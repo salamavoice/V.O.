@@ -169,9 +169,4 @@ h2 {
     width: 30%;
     height:30%;
 }
-.video-container video {
-    width: 100%; /* Full width */
-    max-width: 600px; /* Adjust max width as needed */
-    height: auto; /* Maintain aspect ratio */
-}
 
