@@ -169,11 +169,6 @@ h2 {
     width: 30%;
     height:30%;
 }
-@media (max-width: 480px) {
-    .video-container {
-        padding: 10px; /* Add some padding on small screens */
-    }
-}
 .lobster-regular{
     text-decoration: none;
 }
