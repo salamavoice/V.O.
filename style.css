@@ -100,6 +100,7 @@ h1{
 
 h2 {  
     color: blue;
+    text-decoration: underline;
 }
 
 /* Responsive Design for All Devices */
@@ -149,4 +150,22 @@ h2 {
         font-size: large; /* Adjust font size */
         margin: 0 5px; /* Adjust margin for space */
     }
+}
+.video-container{
+    position:relative;
+    width:100%;
+    padding-top: 56.25%;
+    overflow: hidden;
+}
+.video-container video{
+    position:absolute;
+    top: 0;
+    left:0;
+    width: 30%;
+    height: 30%;
+}
+.shorts{
+    position:relative;
+    width: 30%;
+    height:30%;
 }
